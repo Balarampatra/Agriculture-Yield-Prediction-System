@@ -1,0 +1,11 @@
+[2026-02-23 23:06:49,395] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-02-23 23:06:49,397] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-02-23 23:06:49,397] 97 werkzeug - INFO -  * Debugger PIN: 141-353-547
+[2026-02-23 23:06:49,397] 97 werkzeug - INFO -  * Debugger PIN: 141-353-547
+[2026-02-23 23:06:49,406] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-02-23 23:06:49,410] 97 werkzeug - INFO -  * Debugger PIN: 141-353-547
+[2026-02-23 23:12:08,463] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 23:12:08] "GET /dashboard HTTP/1.1" 200 -
+[2026-02-23 23:12:12,311] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 23:12:12] "GET / HTTP/1.1" 200 -
+[2026-02-23 23:12:15,918] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 23:12:15] "GET /predict HTTP/1.1" 200 -
+[2026-02-23 23:12:56,069] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 23:12:56] "GET /predict HTTP/1.1" 200 -
+[2026-02-23 23:13:05,546] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 23:13:05] "GET / HTTP/1.1" 200 -

@@ -1,0 +1,28 @@
+[2026-02-22 23:33:22,703] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-02-22 23:33:22,703] 97 werkzeug - INFO -  * Debugger PIN: 141-353-547
+[2026-02-23 00:12:16,637] 67 root - INFO - Dataframe created
+[2026-02-23 00:12:16,637] 37 root - INFO - file path during load: dataset\preprocessor.pkl
+[2026-02-23 00:12:16,638] 41 root - INFO - Error in load_object function in utils
+[2026-02-23 00:12:16,638] 26 root - INFO - Error occured in predict function in prediction_pipeline location
+[2026-02-23 00:12:16,649] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 00:12:16] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-02-23 00:12:16,815] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 00:12:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-02-23 00:12:16,827] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 00:12:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-02-23 00:12:16,836] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 00:12:16] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=zUbuR1h6exWC6xBBPFnY HTTP/1.1" 200 -
+[2026-02-23 00:12:21,382] 67 root - INFO - Dataframe created
+[2026-02-23 00:12:21,382] 37 root - INFO - file path during load: dataset\preprocessor.pkl
+[2026-02-23 00:12:21,382] 41 root - INFO - Error in load_object function in utils
+[2026-02-23 00:12:21,382] 26 root - INFO - Error occured in predict function in prediction_pipeline location
+[2026-02-23 00:12:21,405] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 00:12:21] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-02-23 00:12:21,420] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 00:12:21] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-02-23 00:12:21,420] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 00:12:21] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-02-23 00:12:21,424] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 00:12:21] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=zUbuR1h6exWC6xBBPFnY HTTP/1.1[0m" 304 -
+[2026-02-23 00:12:21,429] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 00:12:21] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2026-02-23 18:44:08,126] 67 root - INFO - Dataframe created
+[2026-02-23 18:44:08,128] 37 root - INFO - file path during load: dataset\preprocessor.pkl
+[2026-02-23 18:44:08,128] 41 root - INFO - Error in load_object function in utils
+[2026-02-23 18:44:08,128] 26 root - INFO - Error occured in predict function in prediction_pipeline location
+[2026-02-23 18:44:08,197] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:44:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-02-23 18:44:08,253] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:44:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-02-23 18:44:08,259] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:44:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-02-23 18:44:08,297] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:44:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=zUbuR1h6exWC6xBBPFnY HTTP/1.1[0m" 304 -
+[2026-02-23 18:45:22,228] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Desktop\\Crop_prediction_ml_pipeline-main\\dataset\\train_model.py', reloading

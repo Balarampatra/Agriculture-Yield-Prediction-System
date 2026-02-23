@@ -1,0 +1,6 @@
+[2026-02-23 22:46:44,380] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-02-23 22:46:44,384] 97 werkzeug - INFO -  * Debugger PIN: 141-353-547
+[2026-02-23 22:46:44,486] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-02-23 22:46:44,488] 97 werkzeug - INFO -  * Debugger PIN: 141-353-547
+[2026-02-23 23:06:47,376] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Desktop\\Crop_prediction_ml_pipeline-main\\agriculture_yield_system\\security\\security_manager.py', reloading
+[2026-02-23 23:06:47,384] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Desktop\\Crop_prediction_ml_pipeline-main\\agriculture_yield_system\\security\\security_manager.py', reloading

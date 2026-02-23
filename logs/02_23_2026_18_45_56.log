@@ -1,0 +1,12 @@
+[2026-02-23 18:45:59,883] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-02-23 18:45:59,890] 97 werkzeug - INFO -  * Debugger PIN: 141-353-547
+[2026-02-23 18:47:09,542] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:47:09] "GET / HTTP/1.1" 200 -
+[2026-02-23 18:47:48,567] 76 root - INFO - Dataframe created
+[2026-02-23 18:47:48,570] 37 root - INFO - file path during load: dataset\preprocessor.pkl
+[2026-02-23 18:47:48,574] 37 root - INFO - file path during load: dataset\model.pkl
+[2026-02-23 18:47:48,920] 35 root - INFO - Error occured in predict function in prediction_pipeline location
+[2026-02-23 18:47:49,003] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:47:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-02-23 18:47:49,460] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:47:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-02-23 18:47:49,481] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:47:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-02-23 18:47:49,550] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:47:49] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=4RCKqN9KfB326G6N859s HTTP/1.1" 200 -
+[2026-02-23 18:49:46,949] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Desktop\\Crop_prediction_ml_pipeline-main\\dataset\\train_model.py', reloading

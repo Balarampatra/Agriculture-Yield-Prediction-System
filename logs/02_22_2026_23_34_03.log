@@ -1,0 +1,4 @@
+[2026-02-22 23:34:05,095] 56 root - INFO - Data Ingestion methods Starts
+[2026-02-22 23:34:05,098] 60 root - ERROR - Exception occurred during MongoDB data retrieval
+[2026-02-22 23:34:05,098] 52 root - ERROR - Exception occurred during MongoDB data retrieval and CSV creation
+[2026-02-22 23:34:05,098] 80 root - ERROR - Exception occurred during data ingestion

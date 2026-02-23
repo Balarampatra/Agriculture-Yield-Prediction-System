@@ -1,0 +1,19 @@
+[2026-02-23 18:50:44,270] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-02-23 18:50:44,279] 97 werkzeug - INFO -  * Debugger PIN: 141-353-547
+[2026-02-23 18:50:44,320] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-02-23 18:50:44,330] 97 werkzeug - INFO -  * Debugger PIN: 141-353-547
+[2026-02-23 18:51:41,974] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:51:41] "GET / HTTP/1.1" 200 -
+[2026-02-23 18:52:00,001] 78 root - INFO - Dataframe created
+[2026-02-23 18:52:00,001] 37 root - INFO - file path during load: dataset\preprocessor.pkl
+[2026-02-23 18:52:00,001] 37 root - INFO - file path during load: dataset\model.pkl
+[2026-02-23 18:52:00,470] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:52:00] "POST /predict HTTP/1.1" 200 -
+[2026-02-23 18:52:24,164] 78 root - INFO - Dataframe created
+[2026-02-23 18:52:24,164] 37 root - INFO - file path during load: dataset\preprocessor.pkl
+[2026-02-23 18:52:24,165] 37 root - INFO - file path during load: dataset\model.pkl
+[2026-02-23 18:52:24,296] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:52:24] "POST /predict HTTP/1.1" 200 -
+[2026-02-23 18:53:39,002] 78 root - INFO - Dataframe created
+[2026-02-23 18:53:39,002] 37 root - INFO - file path during load: dataset\preprocessor.pkl
+[2026-02-23 18:53:39,003] 37 root - INFO - file path during load: dataset\model.pkl
+[2026-02-23 18:53:39,155] 97 werkzeug - INFO - 127.0.0.1 - - [23/Feb/2026 18:53:39] "POST /predict HTTP/1.1" 200 -
+[2026-02-23 22:26:20,655] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Desktop\\Crop_prediction_ml_pipeline-main\\agriculture_yield_system\\security\\security_manager.py', reloading
+[2026-02-23 22:26:20,759] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Desktop\\Crop_prediction_ml_pipeline-main\\agriculture_yield_system\\security\\security_manager.py', reloading
